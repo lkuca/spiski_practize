@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "spiski_practize", "spiski_practize\spiski_practize.pyproj", "{AB3268B5-6846-4A67-A0BA-E4F108F239DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3268B5-6846-4A67-A0BA-E4F108F239DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3268B5-6846-4A67-A0BA-E4F108F239DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A864E8E9-AFD7-4EF5-983A-0031CBDA7952}
+	EndGlobalSection
+EndGlobal
